@@ -2,4 +2,6 @@
 
 Use Pug
 
-npm install -> npm start
+App simulates login
+
+npm init -> npm install -> npm start
